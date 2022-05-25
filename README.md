@@ -4,4 +4,4 @@
 - 🔭 I like to write code
 - 🌱 I’m currently learning QA
 - ⚡ I'm constantly learning new things
-- 😄 I love cycling and play ping-pong
+- 😄 I love cycling and playing ping-pong
