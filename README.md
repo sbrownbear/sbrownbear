@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Sergey
+## Hi there 👋 I'm Sergey
 
-## I'm a QA Engineer
+### I'm a QA Engineer
 - 🔭 I like to write code
 - 🌱 I’m currently learning QA
 - ⚡ I'm constantly learning new things
