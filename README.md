@@ -12,9 +12,9 @@
 [<img alt='JS' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>](https://ru.wikipedia.org/wiki/JavaScript)
 [<img alt='HTML' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>](https://ru.wikipedia.org/wiki/HTML)
 [<img alt='CSS' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'>](https://ru.wikipedia.org/wiki/CSS)
-[<img alt='GIT' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>](https://ru.wikipedia.org/wiki/Git)
 [<img alt='Python' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>](https://ru.wikipedia.org/wiki/Python)
 [<img alt='Jupyter Notebook' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'>](https://en.wikipedia.org/wiki/Project_Jupyter)
+[<img alt='GIT' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>](https://ru.wikipedia.org/wiki/Git)
 [<img alt='Linux' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png'>](https://ru.wikipedia.org/wiki/Linux)
 [<img alt='MySQL' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png'>](https://ru.wikipedia.org/wiki/MySQL)
 [<img alt='SQL' height='24' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'>](https://ru.wikipedia.org/wiki/SQL)
@@ -22,12 +22,8 @@
 [<img alt='Markdown' height='24' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png'>](https://ru.wikipedia.org/wiki/Markdown)
 [<img alt='GitHub' height='24' src='https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png'>](https://ru.wikipedia.org/wiki/GitHub)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&layout=compact)](https://github.com/sbrownbear/github-readme-stats)
+
 ### You can contact me:
 [<img alt='Linkedin' height='32' src='https://cdn-icons-png.flaticon.com/512/145/145807.png'>](https://www.linkedin.com/in/sergeykonoplev58/)
 [<img alt='Telegram' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png'>](https://t.me/s_brown_bear)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrownbear&theme=dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&layout=compact)](https://github.com/sbrownbear/github-readme-stats)
-
-
