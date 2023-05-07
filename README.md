@@ -10,20 +10,19 @@
 ## My CV is [here](https://drive.google.com/file/d/1lXESu0IG5T1kGjcaH67_dg4FJm5pWjVp/view?usp=sharing)
 
 ## My skills and tools:
-<img alt='Python' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>
-<img alt='JS' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>
-<img alt='HTML' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>
-<img alt='CSS' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'>
-<img alt='GIT' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>
-<img alt='Linux' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png'>
-<img alt='Terminal' height='32' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'>
-<img alt='Postman' height='32' src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png'>
-<img alt='postgresql' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'>
-<img alt='SQL' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'>
-<img alt='VSC' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png'>
-<img alt='Jupyter Notebook' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'>
-<img alt='Markdown' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png'>
-<img alt='GitHub' height='32' src='https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png'>
+[<img alt='Python' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>](https://ru.wikipedia.org/wiki/Python)
+[<img alt='JS' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>](https://ru.wikipedia.org/wiki/JavaScript)
+[<img alt='HTML' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>](https://ru.wikipedia.org/wiki/HTML)
+[<img alt='CSS' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'>](https://ru.wikipedia.org/wiki/CSS)
+[<img alt='GIT' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png'>](https://ru.wikipedia.org/wiki/Git)
+[<img alt='Linux' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png'>](https://ru.wikipedia.org/wiki/Linux)
+[<img alt='Terminal' height='32' src='https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png'>](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0)
+[<img alt='Postman' height='32' src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png'>](https://www.postman.com/)
+[<img alt='postgresql' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'>](https://ru.wikipedia.org/wiki/PostgreSQL)
+[<img alt='SQL' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png'>](https://ru.wikipedia.org/wiki/SQL)
+[<img alt='VSC' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png'>]()
+[<img alt='Jupyter Notebook' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png'>](https://ru.wikipedia.org/wiki/Visual_Studio_Code)
+[<img alt='Markdown' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png'>](https://ru.wikipedia.org/wiki/Markdown)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&layout=compact)](https://github.com/sbrownbear/github-readme-stats)
