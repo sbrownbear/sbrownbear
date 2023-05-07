@@ -1,15 +1,15 @@
-# Hi there 👋 I'm Sergey
+## Hi there 👋 I'm Sergey
 
-## I'm a QA Engineer
+### I'm a QA Engineer
 - 🔭 I like to write code
 - 🌱 I’m currently learning QA
 - ⚡ I'm constantly learning new things
 - 🎵 I enjoy listening to music and relaxing
 - 😄 I love cycling and playing ping-pong
 
-## My CV is [here](https://drive.google.com/file/d/1lXESu0IG5T1kGjcaH67_dg4FJm5pWjVp/view?usp=sharing)
+### My CV is [here](https://drive.google.com/file/d/1lXESu0IG5T1kGjcaH67_dg4FJm5pWjVp/view?usp=sharing)
 
-## My skills and tools:
+### My skills and tools:
 [<img alt='Python' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>](https://ru.wikipedia.org/wiki/Python)
 [<img alt='JS' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'>](https://ru.wikipedia.org/wiki/JavaScript)
 [<img alt='HTML' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>](https://ru.wikipedia.org/wiki/HTML)
@@ -27,6 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&layout=compact)](https://github.com/sbrownbear/github-readme-stats)
 
-## You can contact me:
+### You can contact me:
 [<img alt='Linkedin' height='32' src='https://cdn-icons-png.flaticon.com/512/145/145807.png'>](https://www.linkedin.com/in/sergeykonoplev58/)
 [<img alt='Telegram' height='32' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png'>](https://t.me/s_brown_bear)
