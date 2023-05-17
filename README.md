@@ -7,7 +7,7 @@
 - 🎵 I enjoy listening to music and relaxing
 - 😄 I love cycling and playing ping-pong
 
-### My CV is [here](https://drive.google.com/file/d/1lXESu0IG5T1kGjcaH67_dg4FJm5pWjVp/view?usp=sharing)
+### My CV is [here](https://drive.google.com/file/d/1by_qgnyJ0KDRmLQ_14bTsnOXId8bhUot/view?usp=sharing)
 
 ### My skills and tools:
 [<img alt='Python' height='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>](https://ru.wikipedia.org/wiki/Python)
