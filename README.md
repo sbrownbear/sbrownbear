@@ -15,30 +15,32 @@
 
 </div>
 
-<h2 align="left"> Languages - Frameworks - Tools </h2>
-<img alt='Java' height='36' src='src/Java-Dark.svg'>
-<img alt='Selenide' height='36' src='src/Selenide.png'>
-<img alt='Gradle' height='36' src='src/Gradle-Dark.svg'>
-<img alt='Allure_Report' height='36' src='src/Allure_Report.png'>
-<img alt='Idea' height='36' src='src/Idea-Dark.svg'>
-<img alt='Jenkins' height='36' src='src/Jenkins-Dark.svg'>
-<img alt='Rest-Assured' height='36' src='src/Rest-Assured.png'>
-<img alt='Git' height='36' src='src/Git.svg'>
-<img alt='HTML' height='36' src='src/HTML.svg'>
-<img alt='Figma' height='36' src='src/Figma-Dark.svg'>
-<img alt='Github' height='36' src='src/Github-Dark.svg'>
 
-<img alt='Python' height='36' src='src/Python-Dark.svg'>
-<img alt='Selenium' height='36' src='src/Selenium.svg'>
-<img alt='JUnit5' height='36' src='src/JUnit5.png'>
-<img alt='AllureTestOps' height='36' src='src/AllureTestOps.png'>
-<img alt='VSCode' height='36' src='src/VSCode-Dark.svg'>
-<img alt='Selenoid' height='36' src='src/Selenoid.png'>
-<img alt='Postman' height='36' src='src/Postman.svg'>
-<img alt='PostgreSQL' height='36' src='src/PostgreSQL-Dark.svg'>
-<img alt='CSS' height='36' src='src/CSS.svg'>
-<img alt='Photoshop' height='36' src='src/Photoshop.svg'>
-<img alt='Markdown' height='36' src='src/Markdown-Dark.svg'>
+<h2 align="left"> Languages - Frameworks - Tools </h2>
+<div align="left">
+    <img alt='Java' height='36' src='src/Java-Dark.svg'>
+    <img alt='Selenide' height='36' src='src/Selenide.png'>
+    <img alt='Gradle' height='36' src='src/Gradle-Dark.svg'>
+    <img alt='Allure_Report' height='36' src='src/Allure_Report.png'>
+    <img alt='Idea' height='36' src='src/Idea-Dark.svg'>
+    <img alt='Jenkins' height='36' src='src/Jenkins-Dark.svg'>
+    <img alt='Rest-Assured' height='36' src='src/Rest-Assured.png'>
+    <img alt='Git' height='36' src='src/Git.svg'>
+    <img alt='HTML' height='36' src='src/HTML.svg'>
+    <img alt='Figma' height='36' src='src/Figma-Dark.svg'>
+    <img alt='Github' height='36' src='src/Github-Dark.svg'/> <br>
+    <img alt='Python' height='36' src='src/Python-Dark.svg'>
+    <img alt='Selenium' height='36' src='src/Selenium.svg'>
+    <img alt='JUnit5' height='36' src='src/JUnit5.png'>
+    <img alt='AllureTestOps' height='36' src='src/AllureTestOps.png'>
+    <img alt='VSCode' height='36' src='src/VSCode-Dark.svg'>
+    <img alt='Selenoid' height='36' src='src/Selenoid.png'>
+    <img alt='Postman' height='36' src='src/Postman.svg'>
+    <img alt='PostgreSQL' height='36' src='src/PostgreSQL-Dark.svg'>
+    <img alt='CSS' height='36' src='src/CSS.svg'>
+    <img alt='Photoshop' height='36' src='src/Photoshop.svg'>
+    <img alt='Markdown' height='36' src='src/Markdown-Dark.svg'/>
+</div>
 
 
 <h2 align="left"> Stats </h2>
