@@ -15,7 +15,6 @@
 
 </div>
 
-
 <h2 align="left"> Languages - Frameworks - Tools </h2>
 <div align="left">
     <img alt='Java' height='36' src='src/Java-Dark.svg'>
@@ -49,24 +48,24 @@
     <img width=450 src="https://streak-stats.demolab.com/?user=sbrownbear&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-
 <h2 align="left"> You can contact me </h2>
 <div align="left"> 
-    <div align="left"> 
-    <a href="mailto:sergey.gsarh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <div align="left">
+    </a>
+        <a href="https://drive.google.com/file/d/1by_qgnyJ0KDRmLQ_14bTsnOXId8bhUot/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
+    </a>
+        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
         <a href="https://t.me/s_brown_bear" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
     </a>
-        <a href="https://join.skype.com/invite/obFDDBwe5eAX" target="_blank">
-        <img src="https://img.shields.io/badge/Skype-0077B5?style=for-the-badge&logo=Skype&logoColor=white" target="_blank" />
+        <a href="https://www.behance.net/sergeykonoplev58" target="_blank">
+        <img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://drive.google.com/file/d/1by_qgnyJ0KDRmLQ_14bTsnOXId8bhUot/view?usp=sharing" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
+        <a href="mailto:sergey.gsarh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     </div>
 </div>
