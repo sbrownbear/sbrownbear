@@ -1,21 +1,14 @@
-<h1 align="left"> QA Automation Engineer </h1>
+# QA Automation Engineer
 
-<h2 align="left"> Hi there 👋 I'm Sergey </h2>
-<div align="left">
+## Hi there 👋 I'm Sergey
 
-- 🔭 I like to write code
+- 📚 I like to write code
+- 🚀 I’m currently learning QA
+- 💻 I’m proficient in architectural graphics
+- ✏️ I have a little knowledge of academic drawing
+- 💪 I love playing ping-pong and cycling
 
-- 🌱 I’m currently learning QA
-
-- ⚡ I'm constantly learning new things
-
-- 🎵 I enjoy listening to music and relaxing
-
-- 😄 I love playing ping-pong and cycling
-
-</div>
-
-<h2 align="left"> Languages - Frameworks - Tools </h2>
+## Languages - Frameworks - Tools
 <div align="left">
     <img alt='Java' height='36' src='src/Java-Dark.svg'>
     <img alt='Selenide' height='36' src='src/Selenide.png'>
@@ -42,13 +35,13 @@
 </div>
 
 
-<h2 align="left"> Stats </h2>
+## Stats
 <div align="left">
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&border_radius=10&theme=react&layout=compact" alt="Most Used Languages"/>
     <img width=450 src="https://streak-stats.demolab.com/?user=sbrownbear&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-<h2 align="left"> You can contact me </h2>
+## You can contact me
 <div align="left"> 
     <div align="left">
     </a>
