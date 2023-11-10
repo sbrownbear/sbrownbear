@@ -45,7 +45,7 @@
 <div align="left"> 
     <div align="left">
     </a>
-        <a href="https://drive.google.com/file/d/1by_qgnyJ0KDRmLQ_14bTsnOXId8bhUot/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1fbQ_vmuhFeMNBYfMmzIZh_xsLudJh1V8/view?usp=sharing">
         <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
     </a>
         <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
