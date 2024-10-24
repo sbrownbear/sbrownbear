@@ -1,66 +1,84 @@
-# QA Automation Engineer
+## AQA Engineer Java / Инженер по автоматизации тестирования
 
-## Hi there 👋 I'm Sergey
+- 🎓 Учусь в школе автоматизации тестирования на Java на платформе [QA.GURU](https://qa.guru/);
+- 📚 Имею опыт внедрения автоматизации тестирования "с нуля", развитие тестового фреймворка, основываясь на методологии ООП, паттернах проектирования Page Object и Steps;
+- 🚀 Опыт написания [Web UI](https://github.com/sbrownbear/web_tests_java) e2e-автотестов с использованием Java, Selenide, Allure, Jenkins, Selenoid и [REST API](https://github.com/sbrownbear/rest-api-tests/tree/specs) автотестов с библиотекой REST-Assured;
+- 📲 [Мобильное тестирование](https://github.com/sbrownbear/mobile-tests) с помощью BrowserStack, Android Studio и Appium;
+- 🔨 Работа с инструментами управления сборки проектов и тестовых фреймворков Gradle / Junit5;
+- 👊 Опыт построения пайплайнов в [GitHub Actions](https://github.com/sbrownbear/allure-reports/actions), настройка "с нуля" процессов CI/CD для автотестов;
+- 💾 Опыт работы в командной строке, работа с Linux (Bash);
+- 💣 Работа с Docker, создание Dockerfile и docker-compose, деплой в Docker Hub.
+- 📄 Уверенные знания [SQL](https://github.com/sbrownbear/sql_practice), опыт работы с различными СУБД: PostgreSQL, MySQL;
+- 📨 Формирование уведомления о результатах тестирования с помощью бота в [Telegram / Slack](https://github.com/sbrownbear/telegram-bot_notifications);
+- 📋 Локализация, регистрация и учёт дефектов в Jira;
+<!-- - 📂 Умею работать с VCS Git, сервисами GitHub и Gitlab; -->
+<!-- - 😎 Применение различных техник тест-дизайна для обеспечения максимального тестового покрытия; -->
+<!-- - 🚴 Владею архитектурной [визуализацией](https://www.behance.net/sergeykonoplev58), умею рисовать и играю в теннис. -->
 
-- 📚 I like to write code
-- 🚀 I’m currently learning QA
-- 💻 I’m proficient in architectural graphics
-- ✏️ I have a little knowledge of academic drawing
-- 💪 I love playing ping-pong and cycling
+<!-- ---
+- **Мои pet-проекты:** 
+    - Web UI (ссылка) - краткое описание (технологии и что подключил)
+    - REST API (ссылка) - краткое описание (технологии и что подключил)
+    - Mobile (ссылка) - краткое описание (технологии и что подключил) -->
 
-## Languages - Frameworks - Tools
-<div align="left">
-    <img alt='Java' height='36' src='src/Java-Dark.svg'>
-    <img alt='Selenide' height='36' src='src/Selenide.png'>
-    <img alt='Gradle' height='36' src='src/Gradle-Dark.svg'>
-    <img alt='Allure_Report' height='36' src='src/Allure_Report.png'>
-    <img alt='Idea' height='36' src='src/Idea-Dark.svg'>
-    <img alt='Jenkins' height='36' src='src/Jenkins-Dark.svg'>
-    <img alt='Rest-Assured' height='36' src='src/Rest-Assured.png'>
-    <img alt='Git' height='36' src='src/Git.svg'>
-    <img alt='HTML' height='36' src='src/HTML.svg'>
-    <img alt='Figma' height='36' src='src/Figma-Dark.svg'>
-    <img alt='Github' height='36' src='src/Github-Dark.svg'/> <br>
-    <img alt='Python' height='36' src='src/Python-Dark.svg'>
-    <img alt='Selenium' height='36' src='src/Selenium.svg'>
-    <img alt='JUnit5' height='36' src='src/JUnit5.png'>
-    <img alt='AllureTestOps' height='36' src='src/AllureTestOps.png'>
-    <img alt='VSCode' height='36' src='src/VSCode-Dark.svg'>
-    <img alt='Selenoid' height='36' src='src/Selenoid.png'>
-    <img alt='Postman' height='36' src='src/Postman.svg'>
-    <img alt='PostgreSQL' height='36' src='src/PostgreSQL-Dark.svg'>
-    <img alt='CSS' height='36' src='src/CSS.svg'>
-    <img alt='Photoshop' height='36' src='src/Photoshop.svg'>
-    <img alt='Markdown' height='36' src='src/Markdown-Dark.svg'/>
+## Технологии и инструменты
+<div align="center">
+    <code><img alt='IntelliJ IDEA' height='42' title='IntelliJ IDEA' src='images/intellij-idea.svg'></code>
+    <code><img alt='Java' height='42' title='Java' src='images/java.svg'></code>
+    <code><img alt='Selenide' height='42' title='Selenide' src='images/selenide.svg'></code>
+    <!-- <code><img alt='Selenium' height='42' title='Selenium' src='images/selenium.svg'></code> -->
+    <code><img alt='Gradle' height='42' title='Gradle' src='images/gradle.svg'></code>
+    <code><img alt='JUnit5' height='42' title='JUnit5' src='images/junit5.svg'></code>
+    <code><img alt='Allure Report' height='42' title='Allure Report' src='images/allure-report.svg'></code>
+    <code><img alt='Allure TestOps' height='42' title='Allure TestOps' src='images/allure-testops.svg'></code>
+    <code><img alt='Jenkins' height='42' title='Jenkins' src='images/jenkins.svg'></code>
+    <code><img alt='Selenoid' height='42' title='Selenoid' src='images/selenoid.svg'></code>
+    <code><img alt='Docker' height='42' title='Docker' src='images/docker.svg'></code>
+    <code><img alt='Rest-Assured' height='42' title='REST-Assured' src='images/rest-assured.svg'></code>
+    <code><img alt='Postman' height='42' title='Postman' src='images/postman.svg'></code>
+    <code><img alt='Git' height='42' title='Git' src='images/git.svg'></code>
+    <code><img alt='GitHub Actions' height='42' title='GitHub Actions' src='images/github-actions.svg'></code>
+    <!-- <code><img alt='GitHub' height='42' title='GitHub' src='images/github.svg'></code> -->
+    <code><img alt='Android Studio' height='42' title='Android Studio' src='images/android-studio.svg'></code>
+    <code><img alt='BrowserStack' height='42' title='BrowserStack' src='images/browserstack.svg'></code>
+    <code><img alt='Appium' height='42' title='Appium' src='images/appium.svg'></code>
+    <!-- <code><img alt='Jira' height='42' title='Jira' src='images/jira.svg'></code> -->
+    <!-- <code><img alt='Markdown' height='42' title='Markdown' src='images/markdown.svg'></code> -->
+    <code><img alt='PostgreSQL' height='42' title='PostgreSQL' src='images/postgressql.svg'></code>
+    <code><img alt='HTML5' height='42' title='HTML5' src='images/html5.svg'></code>
+    <code><img alt='CSS3' height='42' title='CSS3' src='images/css3.svg'></code>
+    <!-- <code><img alt='Telegram' height='42' title='Telegram' src='images/telegram.svg'></code> -->
+    <!-- <code><img alt='Spring' height='42' title='Spring' src='images/spring.svg'></code> -->
+    <!-- <code><img alt='VSCVisual Studio Code' height='42' title='Visual Studio Code' src='images/vs-code.svg'></code> -->
+    <!-- <code><img alt='Python' height='42' title='Python' src='images/python.svg'></code> -->
+    <!-- <code><img alt='Figma' height='42' title='Figma' src='images/figma.svg'></code> -->
+    <!-- <code><img alt='Photoshop' height='42' title='Photoshop' src='images/photoshop.svg'></code> -->
 </div>
 
-
-## Stats
+## Статистика
 <div align="left">
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&border_radius=10&theme=react&layout=compact" alt="Most Used Languages"/>
     <img width=450 src="https://streak-stats.demolab.com/?user=sbrownbear&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-## You can contact me
+### Контактные данные
 <div align="left"> 
     <div align="left">
     </a>
         <a href="https://drive.google.com/file/d/1fbQ_vmuhFeMNBYfMmzIZh_xsLudJh1V8/view?usp=sharing">
-        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
-    </a>
-        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+        <img title="CV AQA Engineer Java" src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
     </a>
         <a href="https://t.me/s_brown_bear" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+        <img title="Telegram" src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=deepskyblue" target="_blank" />
+    </a>
+        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
+        <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=deepskyblue" target="_blank" />
     </a>
         <a href="https://www.behance.net/sergeykonoplev58" target="_blank">
-        <img src="https://img.shields.io/badge/Behance-0077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
-    </a>
+        <img title="Behance" src="https://img.shields.io/badge/Behance-333333?style=for-the-badge&logo=behance&logoColor=red" target="_blank" />
+    <!-- </a>
         <a href="mailto:sergey.gsarh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
+        <img title="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a> -->
     </div>
 </div>
-
-
