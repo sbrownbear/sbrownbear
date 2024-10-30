@@ -67,7 +67,7 @@
 <div align="left"> 
     <div align="left">
     </a>
-        <a href="https://drive.google.com/file/d/1RyJEe_2Gnb1M56UbWyKWBFU0ScKHQB3T/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1kX5lcbVnm6w0KEMfRmMrwuthfSm-rESN/view?usp=sharing">
         <img title="CV AQA Engineer Java" src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
     </a>
         <a href="https://t.me/s_brown_bear" target="_blank">
