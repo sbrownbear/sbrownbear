@@ -60,8 +60,8 @@
 
 ## Stats and Achievements
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-    <img src="src/metrics.plugin.languages.indepth.svg" alt="Languages" style="width: 400px; height: auto; vertical-align: top;"/>
-    <img src="src/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
+    <img src="metrics.plugin.languages.indepth.svg" alt="Languages" style="width: 400px; height: auto; vertical-align: top;"/>
+    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
 </div>
 
 
