@@ -23,7 +23,8 @@ jobs:
           base: "repositories"
           plugin_languages: yes
           plugin_languages_skipped: lowlighter/metrics
-          plugin_languages_colors: 0:#FFD147, 1:#bb99ff, 2:#33ADFF, 3:FFA3FF, 4:85FFFF, 5:FF9966, 6:FFFFA3
+          plugin_languages_ignored: FreeMarker, Sass
+          plugin_languages_colors: 0:#FFD147, 1:#bb99ff, 2:#33ADFF, 3:#FFA3FF, 4:#85FFFF, 5:#FF9966, 6:#FFFFA3
           plugin_languages_limit: 7
 
       - name: Achievements
