@@ -87,13 +87,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.8337078145599" height="8" fill="#ffd147"/>
-                    <rect mask="url(#languages-bar)" x="276.8337078145599" y="0" width="99.49827022588407" height="8" fill="#bb99ff"/>
-                    <rect mask="url(#languages-bar)" x="376.33197804044397" y="0" width="24.753041613324026" height="8" fill="#33adff"/>
-                    <rect mask="url(#languages-bar)" x="401.085019653768" y="0" width="23.52981326754937" height="8" fill="ffa3ff"/>
-                    <rect mask="url(#languages-bar)" x="424.6148329213173" y="0" width="15.712308334618177" height="8" fill="85ffff"/>
-                    <rect mask="url(#languages-bar)" x="440.32714125593554" y="0" width="10.217741921513124" height="8" fill="ff9966"/>
-                    <rect mask="url(#languages-bar)" x="450.5448831774487" y="0" width="9.455116822551334" height="8" fill="ffffa3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.4020535333168" height="8" fill="#ffd147"/>
+                    <rect mask="url(#languages-bar)" x="285.4020535333168" y="0" width="102.57786477542047" height="8" fill="#bb99ff"/>
+                    <rect mask="url(#languages-bar)" x="387.97991830873724" y="0" width="25.51917887243197" height="8" fill="#33adff"/>
+                    <rect mask="url(#languages-bar)" x="413.4990971811692" y="0" width="24.258090096139934" height="8" fill="#ffa3ff"/>
+                    <rect mask="url(#languages-bar)" x="437.75718727730913" y="0" width="16.198623714755687" height="8" fill="#85ffff"/>
+                    <rect mask="url(#languages-bar)" x="453.9558109920648" y="0" width="5.870019092251832" height="8" fill="#ff9966"/>
+                    <rect mask="url(#languages-bar)" x="459.82583008431664" y="0" width="0.17416991568332937" height="8" fill="#ffffa3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -116,27 +116,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="ffa3ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ffa3ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="85ffff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#85ffff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="ff9966" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ff9966" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        FreeMarker
+                        SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="ffffa3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ffffa3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Sass
+                        Gherkin
                     </div>
                 </div>
             </section>
