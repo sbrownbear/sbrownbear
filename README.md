@@ -1,4 +1,4 @@
-## AQA Engineer Java / Инженер по автоматизации тестирования
+## Java Automation QA Engineer
 
 <!-- - 🎓 Учусь в школе автоматизации тестирования на Java на платформе [QA.GURU](https://qa.guru/); -->
 - 📚 Имею опыт внедрения автоматизации тестирования "с нуля", развитие тестового фреймворка, основываясь на методологии ООП, паттернах проектирования Page Object и Steps;
@@ -23,7 +23,7 @@
     - [Тестирование мобильного приложения "Wikipedia"](https://github.com/sbrownbear/mobile-tests) с помощью BrowserStack (ветка main) и Android Strudio (ветка local). -->
 
 
-## Технологии и инструменты
+## Tools and Languages
 <div align="center">
     <code><img alt='IntelliJ IDEA' height='42' title='IntelliJ IDEA' src='images/intellij-idea.svg'></code>
     <code><img alt='Java' height='42' title='Java' src='images/java.svg'></code>
@@ -57,27 +57,28 @@
     <!-- <code><img alt='Photoshop' height='42' title='Photoshop' src='images/photoshop.svg'></code> -->
 </div>
 
-## Статистика
-<div align="left">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbrownbear&border_radius=10&theme=react&layout=compact" alt="Most Used Languages"/>
-    <img width=450 src="https://streak-stats.demolab.com/?user=sbrownbear&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+## Stats and Achievements
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+    <img src="src/metrics.plugin.languages.indepth.svg" alt="Languages" style="width: 400px; height: auto; vertical-align: top;"/>
+    <img src="src/metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
 </div>
 
-### Контактные данные
+
+## Social contacts and CV
 <div align="left"> 
     <div align="left">
-    </a>
-        <a href="https://drive.google.com/file/d/1kX5lcbVnm6w0KEMfRmMrwuthfSm-rESN/view?usp=sharing">
-        <img title="CV AQA Engineer Java" src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" />
-    </a>
-        <a href="https://t.me/s_brown_bear" target="_blank">
-        <img title="Telegram" src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=deepskyblue" target="_blank" />
-    </a>
-        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank">
-        <img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=deepskyblue" target="_blank" />
-    </a>
-        <a href="https://www.behance.net/sergeykonoplev58" target="_blank">
-        <img title="Behance" src="https://img.shields.io/badge/Behance-333333?style=for-the-badge&logo=behance&logoColor=red" target="_blank" />
-    </a>
+        <a href="https://drive.google.com/file/d/1kX5lcbVnm6w0KEMfRmMrwuthfSm-rESN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" alt="Portfolio">
+        </a>
+        <a href="https://t.me/s_brown_bear" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=deepskyblue" alt="Telegram">
+        </a>
+        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=deepskyblue" alt="LinkedIn">
+        </a>
+        <a href="https://www.behance.net/sergeykonoplev58" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/Behance-333333?style=for-the-badge&logo=behance&logoColor=red" alt="Behance">
+        </a>
     </div>
 </div>
