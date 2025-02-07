@@ -2,15 +2,15 @@
 
 <!-- - 🎓 Учусь в школе автоматизации тестирования на Java на платформе [QA.GURU](https://qa.guru/); -->
 - 📚 Имею опыт внедрения автоматизации тестирования "с нуля", развитие тестового фреймворка, основываясь на методологии ООП, паттернах проектирования Page Object и Steps;
-- 🚀 Написания [Web UI](https://github.com/sbrownbear/web_tests_java) тестов с использованием Java, Selenide, Allure, Jenkins и Selenoid;
-- 💣Тестирование [REST API](https://github.com/sbrownbear/rest-api-tests/tree/specs) с помощью библиотеки REST-Assured;
-- 📲 [Мобильное тестирование](https://github.com/sbrownbear/mobile-tests) с помощью BrowserStack, Android Studio и Appium;
-- 🔨 Работа с инструментами управления сборки проектов и тестовых фреймворков Gradle / Junit5;
-- 👊 Опыт построения пайплайнов в [GitHub Actions](https://github.com/sbrownbear/allure-reports/actions), настройка "с нуля" процессов CI/CD для автотестов;
-- 💾 Опыт работы в командной строке, работа с Linux (Bash);
-- 📂 Работа с Docker, создание Dockerfile и docker-compose, деплой в Docker Hub;
-- 📄 Уверенные знания [SQL](https://github.com/sbrownbear/sql_practice), опыт работы с различными СУБД: PostgreSQL, MySQL;
-- 📨 Формирование уведомления о результатах тестирования с помощью бота в [Telegram / Slack](https://github.com/sbrownbear/telegram-bot_notifications);
+- [Web UI](https://github.com/sbrownbear/web_tests_java) тесты с использованием Java, Selenide, Allure, Jenkins и Selenoid;
+- [REST API](https://github.com/sbrownbear/rest-api-tests/tree/specs) тестирование с помощью библиотеки REST-Assured;
+- [Мобильное тестирование](https://github.com/sbrownbear/mobile-tests) с помощью BrowserStack, Android Studio и Appium;
+- Gradle / Junit5 работа с инструментами управления сборки проектов и тестовых фреймворков;
+- [GitHub Actions](https://github.com/sbrownbear/allure-reports/actions) построения пайплайнов, настройка "с нуля" процессов CI/CD для автотестов;
+- Linux (Bash) опыт работы в командной строке;
+- Docker создание Dockerfile и docker-compose, деплой в Docker Hub;
+- [SQL](https://github.com/sbrownbear/sql_practice) работа с PostgreSQL и MySQL: объединение таблиц, агрегатные функции, вложенные запросы;
+- [Telegram / Slack](https://github.com/sbrownbear/telegram-bot_notifications) формирование уведомления о результатах тестирования с помощью бота.
 <!-- - 📋 Локализация, регистрация и учёт дефектов в Jira; -->
 <!-- - 📂 Умею работать с VCS Git, сервисами GitHub и Gitlab; -->
 <!-- - 😎 Применение различных техник тест-дизайна для обеспечения максимального тестового покрытия; -->
@@ -23,28 +23,28 @@
     - [Тестирование мобильного приложения "Wikipedia"](https://github.com/sbrownbear/mobile-tests) с помощью BrowserStack (ветка main) и Android Strudio (ветка local). -->
 
 
-## Tools and Languages
+## Tech Stack
 <div align="center">
-    <code><img alt='IntelliJ IDEA' height='42' title='IntelliJ IDEA' src='images/intellij-idea.svg'></code>
-    <code><img alt='Java' height='42' title='Java' src='images/java.svg'></code>
-    <code><img alt='Selenide' height='42' title='Selenide' src='images/selenide.svg'></code>
+    <code><img alt='IntelliJ IDEA' height='38' title='IntelliJ IDEA' src='images/intellij-idea.svg'></code>
+    <code><img alt='Java' height='38' title='Java' src='images/java.svg'></code>
+    <code><img alt='Selenide' height='38' title='Selenide' src='images/selenide.svg'></code>
     <!-- <code><img alt='Selenium' height='42' title='Selenium' src='images/selenium.svg'></code> -->
-    <code><img alt='Gradle' height='42' title='Gradle' src='images/gradle.svg'></code>
-    <code><img alt='JUnit5' height='42' title='JUnit5' src='images/junit5.svg'></code>
-    <code><img alt='Allure Report' height='42' title='Allure Report' src='images/allure-report.svg'></code>
-    <code><img alt='Allure TestOps' height='42' title='Allure TestOps' src='images/allure-testops.svg'></code>
-    <code><img alt='Jenkins' height='42' title='Jenkins' src='images/jenkins.svg'></code>
-    <code><img alt='Selenoid' height='42' title='Selenoid' src='images/selenoid.svg'></code>
-    <code><img alt='Docker' height='42' title='Docker' src='images/docker.svg'></code>
-    <code><img alt='PostgreSQL' height='42' title='PostgreSQL' src='images/postgressql.svg'></code>
-    <code><img alt='Rest-Assured' height='42' title='REST-Assured' src='images/rest-assured.svg'></code>
-    <code><img alt='Postman' height='42' title='Postman' src='images/postman.svg'></code>
-    <code><img alt='Git' height='42' title='Git' src='images/git.svg'></code>
-    <code><img alt='GitHub Actions' height='42' title='GitHub Actions' src='images/github-actions.svg'></code>
+    <code><img alt='Gradle' height='38' title='Gradle' src='images/gradle.svg'></code>
+    <code><img alt='JUnit5' height='38' title='JUnit5' src='images/junit5.svg'></code>
+    <code><img alt='Allure Report' height='38' title='Allure Report' src='images/allure-report.svg'></code>
+    <code><img alt='Allure TestOps' height='38' title='Allure TestOps' src='images/allure-testops.svg'></code>
+    <code><img alt='Jenkins' height='38' title='Jenkins' src='images/jenkins.svg'></code>
+    <code><img alt='Selenoid' height='38' title='Selenoid' src='images/selenoid.svg'></code>
+    <code><img alt='Docker' height='38' title='Docker' src='images/docker.svg'></code>
+    <code><img alt='PostgreSQL' height='38' title='PostgreSQL' src='images/postgressql.svg'></code>
+    <code><img alt='Rest-Assured' height='38' title='REST-Assured' src='images/rest-assured.svg'></code>
+    <code><img alt='Postman' height='38' title='Postman' src='images/postman.svg'></code>
+    <!-- <code><img alt='Git' height='38' title='Git' src='images/git.svg'></code> -->
+    <code><img alt='GitHub Actions' height='38' title='GitHub Actions' src='images/github-actions.svg'></code>
     <!-- <code><img alt='GitHub' height='42' title='GitHub' src='images/github.svg'></code> -->
-    <code><img alt='BrowserStack' height='42' title='BrowserStack' src='images/browserstack.svg'></code>
-    <code><img alt='Android Studio' height='42' title='Android Studio' src='images/android-studio.svg'></code>
-    <code><img alt='Appium' height='42' title='Appium' src='images/appium.svg'></code>
+    <code><img alt='BrowserStack' height='38' title='BrowserStack' src='images/browserstack.svg'></code>
+    <code><img alt='Android Studio' height='38' title='Android Studio' src='images/android-studio.svg'></code>
+    <code><img alt='Appium' height='38' title='Appium' src='images/appium.svg'></code>
     <!-- <code><img alt='Jira' height='42' title='Jira' src='images/jira.svg'></code> -->
     <!-- <code><img alt='Markdown' height='42' title='Markdown' src='images/markdown.svg'></code> -->
     <!-- <code><img alt='HTML5' height='42' title='HTML5' src='images/html5.svg'></code>
