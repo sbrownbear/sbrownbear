@@ -58,33 +58,6 @@
 </div>
 
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbrownbear/sbrownbear/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbrownbear/sbrownbear/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sbrownbear/sbrownbear/output/github-snake.svg" />
-</picture>
-
-
-<div style="display: flex; align-items: flex-start; gap: 10px;">
-    <img src="metrics.plugin.languages.indepth.svg" alt="Languages" style="width: 400px; height: auto; vertical-align: top;"/>
-    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: auto; vertical-align: top;"/>
-</div>
-
-
-## Social contacts and CV
-<div align="left"> 
-    <div align="left">
-        <a href="https://drive.google.com/file/d/1kX5lcbVnm6w0KEMfRmMrwuthfSm-rESN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=todoist&logoColor=red" alt="Portfolio">
-        </a>
-        <a href="https://t.me/s_brown_bear" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=deepskyblue" alt="Telegram">
-        </a>
-        <a href="https://www.linkedin.com/in/sergeykonoplev58/" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=deepskyblue" alt="LinkedIn">
-        </a>
-        <a href="https://www.behance.net/sergeykonoplev58" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Behance-333333?style=for-the-badge&logo=behance&logoColor=red" alt="Behance">
-        </a>
-    </div>
-</div>
+[<img align="left" width="400" alt="Languages" src="metrics.svg">](#)
+[<img align="right" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg">](#)
+[<img align="right" width="400" alt="Detailed achievements" src="metrics.plugin.achievements.svg">](#)
