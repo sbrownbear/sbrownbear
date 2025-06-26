@@ -38,13 +38,9 @@ jobs:
           filename: metrics.plugin.achievements.compact.svg
           user: sbrownbear
           base: metadata
-          output_action: gist
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, developer, member, deployer, contributor, influencer, helper, follower
-            stargazer, maintainer, chatter, inspirer, automator, infographile
           plugin_achievements_display: compact
-          plugin_achievements_threshold: 1
+
 
       - name: Detailed display
         uses: lowlighter/metrics@latest
@@ -54,7 +50,7 @@ jobs:
           user: sbrownbear
           base: metadata
           plugin_achievements: yes
-          plugin_achievements_only: polyglot, developer, deployer, automator
+
 
 
 
